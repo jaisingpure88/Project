@@ -27,6 +27,11 @@ git push -u origin master
 -------------------------------To Fetch/Update Local Files--------------------------------
 git pull origin master
 
+----------------------------------Quick Guide---------------------------------------------
+1. Status
+2. Commit 
+3. Push / Transfer File
+
 
 
 
