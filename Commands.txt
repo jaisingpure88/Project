@@ -24,6 +24,10 @@ Example - git commit -m "first commit" First.txt
 ---------------------------------Transfer File to Git Hub--------------------------------
 git push -u origin master
 
+-------------------------------To Fetch/Update Local Files-------------------------------
+git pull origin master
+
+
 
 
 
