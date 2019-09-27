@@ -1,0 +1,31 @@
+-------------------------------------Git Bash Commands-----------------------------------
+cd /C - Change Directory to C drive
+ls - Print all files in Directory 
+
+----------------------------------To Configure Git Account-------------------------------
+Config Username - git config --global user.name "jaisingpure88"
+Config Email_id - git config --global user.email jaisingpure88@gmail.com
+
+----------------------------------Command To Clone Repository----------------------------
+git clone (URL of your Repository)
+Example:- git clone https://github.com/jaisingpure88/Project.git
+
+-----------------------------------Add Files To Git Hub----------------------------------
+git add (File_Name)
+Example - git add First.txt
+
+------------------------------------Status of File---------------------------------------
+git status
+
+-------------------------------------Commit Files----------------------------------------
+git commit -m "MESSAGE" File_Name
+Example - git commit -m "first commit" First.txt
+
+---------------------------------Transfer File to Git Hub--------------------------------
+git push -u origin master
+
+
+
+
+
+
